@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Telugu:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap');
+body{
+    text-align: center;
+    font-family:'Josefin Sans', sans-serif;
+    background-image: url(https://th.bing.com/th/id/R.f34a7f1d4840e13542e3e28849851cd0?rik=HJ3jjn%2blfz%2b9Ng&pid=ImgRaw&r=0);
+    background-repeat: repeat;
+}
+h1{
+    font-family: 'Tiro Telugu', serif;
+}
+h3{
+    font-family: 'Tiro Telugu', serif;
+}
